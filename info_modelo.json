@@ -1,0 +1,200 @@
+{
+  "modelo": "SVC (Support Vector Classifier)",
+  "limiar": 0.5,
+  "n_treino": 222,
+  "n_teste": 74,
+  "metricas": {
+    "acuracia": 0.8378378378378378,
+    "recall": 0.6521739130434783,
+    "precisao": 0.7894736842105263,
+    "acuracia_dummy": 0.6891891891891891
+  },
+  "colunas": {
+    "Sexo": {
+      "min": 0.0,
+      "max": 1.0,
+      "mediana": 0.0,
+      "inteiro": true
+    },
+    "Diabetes_familiar": {
+      "min": 0.0,
+      "max": 1.0,
+      "mediana": 0.0,
+      "inteiro": true
+    },
+    "Pressão_alta": {
+      "min": 0.0,
+      "max": 1.0,
+      "mediana": 0.0,
+      "inteiro": true
+    },
+    "IMC": {
+      "min": 15.0,
+      "max": 38.0,
+      "mediana": 26.0,
+      "inteiro": true
+    },
+    "Fumante": {
+      "min": 0.0,
+      "max": 1.0,
+      "mediana": 0.0,
+      "inteiro": true
+    },
+    "Ingere_alcool": {
+      "min": 0.0,
+      "max": 1.0,
+      "mediana": 0.0,
+      "inteiro": true
+    },
+    "Medicamentos_regulares": {
+      "min": 0.0,
+      "max": 1.0,
+      "mediana": 0.0,
+      "inteiro": true
+    },
+    "Gradivez": {
+      "min": 0.0,
+      "max": 4.0,
+      "mediana": 0.0,
+      "inteiro": true
+    },
+    "Idade_40-49": {
+      "min": 0.0,
+      "max": 1.0,
+      "mediana": 0.0,
+      "inteiro": true
+    },
+    "Idade_50-59": {
+      "min": 0.0,
+      "max": 1.0,
+      "mediana": 0.0,
+      "inteiro": true
+    },
+    "Idade_60 or older": {
+      "min": 0.0,
+      "max": 1.0,
+      "mediana": 0.0,
+      "inteiro": true
+    },
+    "Idade_less than 40": {
+      "min": 0.0,
+      "max": 1.0,
+      "mediana": 0.0,
+      "inteiro": true
+    },
+    "Ativo_fisicamente_less than half an hr": {
+      "min": 0.0,
+      "max": 1.0,
+      "mediana": 0.0,
+      "inteiro": true
+    },
+    "Ativo_fisicamente_more than half an hr": {
+      "min": 0.0,
+      "max": 1.0,
+      "mediana": 0.0,
+      "inteiro": true
+    },
+    "Ativo_fisicamente_none": {
+      "min": 0.0,
+      "max": 1.0,
+      "mediana": 0.0,
+      "inteiro": true
+    },
+    "Ativo_fisicamente_one hr or more": {
+      "min": 0.0,
+      "max": 1.0,
+      "mediana": 0.0,
+      "inteiro": true
+    },
+    "JunkFood_always": {
+      "min": 0.0,
+      "max": 1.0,
+      "mediana": 0.0,
+      "inteiro": true
+    },
+    "JunkFood_occasionally": {
+      "min": 0.0,
+      "max": 1.0,
+      "mediana": 1.0,
+      "inteiro": true
+    },
+    "JunkFood_often": {
+      "min": 0.0,
+      "max": 1.0,
+      "mediana": 0.0,
+      "inteiro": true
+    },
+    "JunkFood_very often": {
+      "min": 0.0,
+      "max": 1.0,
+      "mediana": 0.0,
+      "inteiro": true
+    },
+    "Stress_always": {
+      "min": 0.0,
+      "max": 1.0,
+      "mediana": 0.0,
+      "inteiro": true
+    },
+    "Stress_not at all": {
+      "min": 0.0,
+      "max": 1.0,
+      "mediana": 0.0,
+      "inteiro": true
+    },
+    "Stress_sometimes": {
+      "min": 0.0,
+      "max": 1.0,
+      "mediana": 1.0,
+      "inteiro": true
+    },
+    "Stress_very often": {
+      "min": 0.0,
+      "max": 1.0,
+      "mediana": 0.0,
+      "inteiro": true
+    },
+    "Nível_pressão_sanguínea_high": {
+      "min": 0.0,
+      "max": 1.0,
+      "mediana": 0.0,
+      "inteiro": true
+    },
+    "Nível_pressão_sanguínea_low": {
+      "min": 0.0,
+      "max": 1.0,
+      "mediana": 0.0,
+      "inteiro": true
+    },
+    "Nível_pressão_sanguínea_normal": {
+      "min": 0.0,
+      "max": 1.0,
+      "mediana": 1.0,
+      "inteiro": true
+    },
+    "Pre_diabetes_1": {
+      "min": 0.0,
+      "max": 1.0,
+      "mediana": 0.0,
+      "inteiro": true
+    },
+    "Pre_diabetes_0": {
+      "min": 0.0,
+      "max": 1.0,
+      "mediana": 1.0,
+      "inteiro": true
+    },
+    "Frequência_urinária_not much": {
+      "min": 0.0,
+      "max": 1.0,
+      "mediana": 1.0,
+      "inteiro": true
+    },
+    "Frequência_urinária_quite often": {
+      "min": 0.0,
+      "max": 1.0,
+      "mediana": 0.0,
+      "inteiro": true
+    }
+  }
+}
